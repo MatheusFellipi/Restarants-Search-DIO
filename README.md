@@ -1,3 +1,9 @@
+
+# Projeto Api google restaurante estudos da Bootcamps  DIO(Digital Innovation One) 
+autor do projeto [Patrick Narciso](https://github.com/patrick-narciso)
+[projeto do autor](https://github.com/patrick-narciso/restaurants-search)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
